@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Hussain <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">
+# Hi, I'm Usama Majid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">
 
 ## About Me🧑🏼‍💻
 
