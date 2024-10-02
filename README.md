@@ -6,17 +6,11 @@
   <tr>
     <td valign="center">
       
-💻 Software Engineer - Flutter Developer            
-      
-🎓 Studied at University of Central Punjab
+💻 Software Engineer - Lead Flutter Developer            
 
 🌱 Flutter Enthuiast & Instructor
 
-✍️ Technical Writer at Flutter Medium Community
-
 🎯 My Goal is to Contribute to as many **open source project** as possible.
-
-✨ I love to create different types of **contents**.
 
     
   </tr>
