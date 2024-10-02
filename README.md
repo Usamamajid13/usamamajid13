@@ -8,7 +8,7 @@
       
 💻 Software Engineer - Flutter Developer            
       
-🎓 Studying at University of Central Punjab
+🎓 Studied at University of Central Punjab
 
 🌱 Flutter Enthuiast & Instructor
 
