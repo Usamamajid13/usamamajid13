@@ -23,12 +23,11 @@
   </table>
 
 
-## Connect With Me👋🏼
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Usamamajid13&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamamajid13&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">  
-<a href="https://www.linkedin.com/in/usama-majid-20a0b8232/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-</p>
-    
+
 ## Technologies⚙️
 
 ### Languages✍🏼
@@ -44,10 +43,6 @@
 
 <a href="https://www.buymeacoffee.com/usamamajid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
 
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Usamamajid13&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamamajid13&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Usamamajid13&icon=0&color=0)](https://visitcount.itsvg.in)
