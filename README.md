@@ -14,7 +14,7 @@ Welcome! I'm a **Software Engineer** and **Lead Flutter Developer** with a stron
 <p align="center">
   <img src="https://deviicktechnologies.com/wp-content/uploads/2023/08/Deviick-logo.png" width="70" />
   </p>
-💼 Founder & CTO at Deviick Technologies https://deviicktechnologies.com
+💼 Founder & CEO at Deviick Technologies https://deviicktechnologies.com
 
 Deviick Technologies is a leading provider of Flutter-based solutions, WordPress development, Cloud Services, and UI/UX design. We’ve successfully completed over **150 projects** for **Flutter** (including Flutter Web), **WordPress**, and more. We also boast of over **200 Figma designs**, creating beautiful and functional interfaces for our clients.
 
